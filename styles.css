@@ -32,9 +32,7 @@
     column-gap: 35px;
     background: #fff;
 }
-.nav-left .logo{
 
-}
 .nav-left .location-div{
     font-weight: 300;
     font-size: 14px;
@@ -338,4 +336,5 @@
           align-items: center;
           font-size: 10px;
       }
-  
+
+    }
